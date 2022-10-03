@@ -4,7 +4,7 @@
   "primary_color": "#b3dcef",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#a0a9ee",
   "repository": "ecomplus-stores/comamormoldes",
