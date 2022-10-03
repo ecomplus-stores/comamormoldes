@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Seja Bem Vindo Resineiro (a), a Com Amor Moldes!!!",
+    "text": "Seja Bem Vindo Resineiro(a)!!!",
     "link": "/promotion",
     "background": "#a0a9ee",
     "color": "#fbfbfb"
@@ -11,11 +11,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/todos-produtos?Todos Produtos"
+    ],
+    "random": 1,
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
