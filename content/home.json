@@ -5,7 +5,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-site.jpeg",
-      "link": "https://comamormoldes.com.br/mentoria"
+      "link": "https://comamormoldes.com.br/mentoria",
+      "mobile_img": "/img/uploads/banner-site.jpeg"
     },
     {
       "type": "collection-shelf",
