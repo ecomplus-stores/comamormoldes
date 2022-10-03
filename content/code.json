@@ -1,5 +1,5 @@
 {
-  "css": "",
-  "html_head": ".info-bar { max-width: 120rem; }",
+  "css": ".info-bar { max-width: 120rem; }",
+  "html_head": "",
   "html_body": ""
 }
