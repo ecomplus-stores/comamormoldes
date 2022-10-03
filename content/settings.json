@@ -1,26 +1,26 @@
 {
-  "store_id": 45997,
-  "name": "comamormoldes",
   "domain": "comamormoldes.netlify.app",
-  "repository": "ecomplus-stores/comamormoldes",
-  "short_name": "comamormoldes",
-  "description": "comamormoldes",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f8f8f8",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/comamormoldes",
+  "logo": "/img/uploads/capa-com-amor-resinas-png.png",
+  "name": "comamormoldes",
+  "short_name": "Com Amor Moldes",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#fa9fe8",
+  "icon": "/img/icon.png",
+  "store_id": 45997,
+  "description": "Fazendo moldes com muito amor para você!!",
+  "large_icon": "/img/large-icon.png"
 }
