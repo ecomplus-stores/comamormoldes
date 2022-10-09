@@ -18,7 +18,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "collection_id": "6279a9033da6d37bc22a1d94:categories:Lançamentos:/lancamentos",
       "sort": "news",
