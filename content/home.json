@@ -18,6 +18,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6242013a2e405e04ff055614:categories:Natal:/moldes-de-natal",
+      "title": "Natal",
+      "link": "https://comamormoldes.com.br/search?term=natal"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "6279a9033da6d37bc22a1d94:categories:Lançamentos:/lancamentos",
