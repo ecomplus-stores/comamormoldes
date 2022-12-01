@@ -5,12 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/design-sem-nome.jpg"
+          "img": "/img/uploads/banner-site.jpeg",
+          "link": "https://comamormoldes.com.br/mentoria---produzindo-moldes-de-silicone-para-resina"
         }
       ]
     },
