@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.18193488ccc839497cffaaba0f048dca.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f4af4cb9b0752128aedb4c83058a9d43.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.81f3f4facd39fca8f8ad62a1d2fd5d71.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e5b4ef5f6705984470d590060759a180.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4b703d9f40eede2b751339ec80cdfa81.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "comamormoldes",
+  "short_name": "comamormoldes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produto 100% Artesanal!!",
+  "background_color": "#fdb7df",
+  "theme_color": "#b3dcef"
+}
