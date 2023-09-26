@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/pwa-reliable.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
