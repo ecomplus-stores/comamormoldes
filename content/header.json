@@ -11,9 +11,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/todos-produtos?Todos Produtos"
-    ],
+    "featured": [],
     "random": 1,
     "full_width": true
   },
