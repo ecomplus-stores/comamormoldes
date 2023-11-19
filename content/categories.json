@@ -3,22 +3,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": false
-    },
-    {
-      "type": "category-retail",
-      "enabled": false,
-      "sort": null
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
