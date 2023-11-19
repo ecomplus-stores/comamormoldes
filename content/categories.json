@@ -3,6 +3,11 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     }
   ]
 }
