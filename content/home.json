@@ -1,5 +1,10 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    }
+  ]
 }
