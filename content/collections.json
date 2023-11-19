@@ -9,16 +9,16 @@
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-retail",
-      "enabled": true,
+      "enabled": false,
       "sort": "sales"
     },
     {
       "type": "document-description",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
