@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "link": "https://wa.me/message/KL6DWWIIT7LAD1",
+      "img": "/img/uploads/imagem-do-whatsapp-de-2023-11-19-a-s-17.27.49_a6c3d401.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true
     }
