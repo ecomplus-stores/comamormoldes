@@ -1,7 +1,7 @@
 {
   "domain": "comamorespaçocriativo.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#39b8f8",
+  "primary_color": "#2295c5",
   "theme": {
     "bootswatch": "united",
     "custom": "_"
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Open Sans",
+  "font_family": "_",
   "favicon": "/img/uploads/logo_01__21_-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ff80ca",
+  "secondary_color": "#c25091",
   "icon": "/img/uploads/logo_01__21_-removebg-preview.png",
   "store_id": 45997,
   "description": "Produto 100% Artesanal!!",
