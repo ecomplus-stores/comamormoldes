@@ -3,13 +3,13 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-site-1000-x-628-px.png",
       "link": "https://wa.me/message/KL6DWWIIT7LAD1"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
