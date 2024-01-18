@@ -5,6 +5,10 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-site-1000-x-628-px.png"
     }
   ]
 }
