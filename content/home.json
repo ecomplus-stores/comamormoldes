@@ -1,6 +1,6 @@
 {
-  "meta_title": "Matriz (USADA)",
-  "meta_description": "Matriz (USADA)",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -27,7 +27,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": true,
+      "sort": "offers"
     }
   ]
 }
