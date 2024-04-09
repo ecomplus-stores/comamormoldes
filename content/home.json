@@ -8,10 +8,6 @@
       "link": "https://wa.me/message/KL6DWWIIT7LAD1"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -31,6 +27,10 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66158da00fc534303df5c108:categories:MATRIZ (USADA):/todos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
