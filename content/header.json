@@ -11,7 +11,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/matriz-usada?Matriz (USADA)"
+    ],
     "random": 1,
     "full_width": true
   },
