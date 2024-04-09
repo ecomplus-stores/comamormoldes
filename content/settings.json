@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#2295c5",
   "theme": {
-    "bootswatch": "united",
+    "bootswatch": "lux",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#e2dede",
   "repository": "ecomplus-stores/comamormoldes",
   "logo": "/img/uploads/logo_01__21_-removebg-preview.png",
   "name": "comamorespaçocriativo",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Inter",
   "favicon": "/img/uploads/logo_01__21_-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
