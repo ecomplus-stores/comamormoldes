@@ -26,6 +26,13 @@
       "collection_id": "66159bf60fc534303df5e07c:categories:Placa Pix:/placa-pix"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66158da00fc534303df5c108:categories:Matriz (USADA):/matriz-usada"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
