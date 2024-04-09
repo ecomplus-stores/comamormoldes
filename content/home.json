@@ -27,10 +27,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66158da00fc534303df5c108:categories:MATRIZ (USADA):/todos"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     }
   ]
 }
