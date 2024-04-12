@@ -14,6 +14,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 23,
+      "page": 1,
+      "collection_id": "661579150fc534303df595d5:categories:Quadros Decorativos:/quadros-decorativos",
+      "link": "https://comamorespacocriativo.netlify.app/quadros-decorativos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "661578550fc534303df593e6:categories:Prancheta de Desenho:/prancheta-de-desenho"
