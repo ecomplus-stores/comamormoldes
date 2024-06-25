@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8ad1d1fd62ded3818cd4e2f96796f8fb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a385f00e9ae1181cc3c915bfb566476e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.56ea234aa03deb9247bf20f3fc2a01dd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.61d9b2ec277c09ddd1fe6920fdf92900.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6edd128b91037be797f47e98cae64b4c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "comamorespaçocriativo",
+  "short_name": "comamorespaçocriativo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produto 100% Artesanal!!",
+  "background_color": "#e2dede",
+  "theme_color": "#2295c5"
+}
